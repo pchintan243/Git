@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("first");
+    printf("shfkhsk");
+    printf("second");
     return 0;
 }
