@@ -2,6 +2,6 @@
 int main()
 {
     printf("shfkhsk");
-    printf("bsjbfjsbfs");
+    printf("second");
     return 0;
 }
