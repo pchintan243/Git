@@ -3,6 +3,6 @@ int main()
 {
     printf("third");
     printf("third");
-    if(fsoj)
+    else(fdshk)
     return 0;
 }
